@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "469429303747",
+    "project_id": "videoplayer-4e94e",
+    "storage_bucket": "videoplayer-4e94e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469429303747:android:5a963e16ed196796672576",
+        "android_client_info": {
+          "package_name": "com.example.videoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469429303747-1vgrr1quvvf810t4ed9hu8k149hen2sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videoplayer",
+            "certificate_hash": "39710217278dff33ffcbf465473d1eafef54f0fc"
+          }
+        },
+        {
+          "client_id": "469429303747-41f2pfnmht6kkf7s1l0s3bj3tiurbr5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZHoxIfiKzFbLoUfMuJXA5L65h6JuzjEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469429303747-41f2pfnmht6kkf7s1l0s3bj3tiurbr5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469429303747-iu120ipee1hchmp8c8nspnk4kig8804a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.videoplayer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
